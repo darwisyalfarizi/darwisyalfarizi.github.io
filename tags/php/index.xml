@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>php on Darwisy Alfarizi</title>
+    <link>https://example.com/tags/php/</link>
+    <description>Recent content in php on Darwisy Alfarizi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Memperbaiki failed to decode zlib stream Ketika Install Composer</title>
+      <link>https://example.com/post/cara_meperbaiki_fail_to_install_composer/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/cara_meperbaiki_fail_to_install_composer/</guid>
+      <description>   Cara Memperbaiki failed to decode zlib stream Ketika Install Composer     Ubah kode di file php.ini dari of menjadi on  zlib.output_compression=On  </description>
+    </item>
+    
+    <item>
+      <title>Menampilkan Log Error di PHP Ketika: The localhost page isn’t working</title>
+      <link>https://example.com/post/menampilkan_log_error_di_php/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/menampilkan_log_error_di_php/</guid>
+      <description>   Menampilkan Log Error di PHP Ketika: The localhost page isn’t working     Bagaimana cara menampilkannya?     1. Tambahkan kode di file php yang error  ini_set(&amp;quot;display_errors&amp;quot;,&amp;quot;1&amp;quot;);error_reporting(E_ALL);    2. Ordered List   Buka xampp Pilih logs pada apache Pilih Apache(error.log)     3. Setting php.ini di xampp   Buka xampp Pilih config Pilih Apache(php.ini) Cari display_errors = off Ganti Jadi on  </description>
+    </item>
+    
+  </channel>
+</rss>
